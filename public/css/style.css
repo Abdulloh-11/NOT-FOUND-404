@@ -1,0 +1,634 @@
+* {
+    text-decoration: none;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+body {
+    background-color: #040F28;
+}
+
+
+
+
+
+
+/* section header */
+
+
+
+
+a {
+    list-style: none;
+    color: #646464;
+    list-style: none;
+}
+
+.ulheader {
+    display: flex;
+    color: #1E1E1E;
+    margin: 73px 190px 78px 141px;
+    justify-content: center;
+
+
+}
+
+li {
+    width: 100px;
+    list-style: none;
+
+}
+
+.home {
+    color: #C4C4C4;
+}
+
+.logo1 {
+    color: #C4C4C4;
+    font-size: 24px;
+
+    font-weight: 700;
+    cursor: pointer;
+    margin-right: 375px;
+}
+
+.logo2 {
+    margin-left: 50px;
+
+}
+
+.logo3 {
+    margin-left: 50px;
+}
+
+.btn1 {
+    color: white;
+    margin-left: 50px;
+    border: 2px solid white;
+    padding: 15px 25px 15px 25px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top: -10px;
+    background-color: #040F28;
+
+
+}
+
+
+
+
+/* section home */
+
+
+
+
+.name {
+    color: #C4C4C4;
+
+
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 74px;
+    margin: 200px 115px 20px 181px;
+
+
+}
+
+.bla {
+
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #646464;
+    margin: 20px 115px 56px 181px;
+
+}
+
+.btnabout {
+    width: 169px;
+    height: 61px;
+
+
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #FC3867;
+    padding: 16px 40px;
+    border-radius: 50px;
+    margin: 0px 486px 0px 181px;
+    cursor: pointer;
+}
+
+.about {
+    display: flex;
+}
+
+.image1 {
+    width: 497px;
+    height: 656px;
+}
+
+
+/* section About */
+
+
+.follow {
+    width: 100%;
+    height: 317px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.chiziq {
+    width: 1px;
+    height: 130px;
+    background-color: black;
+    margin: 90px 110px 90px 91px;
+}
+
+.cardtext {
+    background-color: white;
+    text-align: center;
+
+}
+
+.number {
+
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    color: #070707;
+    margin-bottom: 19px;
+}
+
+.text {
+
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #070707;
+
+}
+
+.text1 {
+
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #C4C4C4;
+}
+
+
+/* section services */
+
+
+
+.nameservic {
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    margin: 150px 1196px 12px 121px;
+
+}
+
+.textservis {
+    display: flex;
+
+
+}
+
+.big {
+
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: #FFFFFF;
+    margin: 12px 328px 56px 118px;
+}
+
+.small {
+
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 50px;
+}
+
+.cardservic {
+    display: flex;
+    justify-content: center;
+}
+
+.cartss {
+    display: flex;
+}
+
+.texts1 {
+    color: white;
+}
+
+.texts2 {
+    color: white;
+    line-height: 25px;
+}
+
+.iconserc {
+    width: 48px;
+    height: 40px;
+    margin: 15px 16px 0px 0px;
+}
+
+.chiziq1 {
+    width: 1px;
+    height: 100px;
+    margin: 12px 70px 0px 57px;
+    background-color: white;
+}
+
+
+
+
+/* section Reviews */
+
+
+
+
+.reviewstext {
+    text-align: center;
+    justify-content: center;
+}
+
+.texta {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    color: #FFFFFF;
+    margin: 118px 0px 29px 0px
+}
+
+
+.textb {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+
+.cardwork {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.cardrewiwews {
+    width: 580px;
+    height: 267px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    display: flex;
+    margin: 20px 20px;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.iconreviv {
+    width: 40px;
+    height: 40px;
+    margin-top: 22px;
+
+}
+
+.pink {
+    width: 80px;
+    height: 80px;
+    background-color: #FC3867;
+    border-radius: 50px;
+    text-align: center;
+    margin: 17px 10px 0px 52px;
+}
+
+.textsbest {
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+}
+
+.textsit {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+
+    color: #272727;
+
+}
+
+
+
+/* section flovers */
+
+
+
+.textpot {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #999999;
+
+
+}
+
+.photosimg {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flowers {
+    margin: 20px 20px;
+    cursor: pointer;
+}
+
+
+/* section Articles */
+
+
+
+.textart {
+    text-align: center;
+    justify-content: center;
+
+}
+
+.our {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 118px 0px 16px 0px
+}
+
+.textava {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.articlcard {
+    width: 300px;
+    height: 500px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    margin-right: 40px;
+
+
+
+}
+
+.cardsthree {
+    display: flex;
+    justify-content: center;
+}
+
+.ps {
+    padding: 20px auto;
+}
+
+.namepack {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+    padding: 52px 226px 0px 24px;
+
+
+}
+
+.summ {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 55px;
+    color: #000000;
+    padding: 21px 0px 0px 24px;
+}
+
+.textpack {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #272727;
+}
+
+.li {
+    padding: 7px 0px 0px 48px;
+}
+
+.lii {
+    padding: 16px 0px 0px 48px;
+}
+
+.marker {
+    margin-right: 5px;
+}
+
+.btnget1 {
+    border: 2px solid black;
+    width: 150px;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 50px;
+    margin: 125px 45px 30pc 75px;
+    text-align: center;
+    padding-top: 13px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 30px;
+    cursor: pointer;
+}
+
+.btnget2 {
+    border: 2px solid black;
+    width: 150px;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 50px;
+    margin: 35px 0px 30px 75px;
+    text-align: center;
+    padding-top: 13px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 30px;
+    cursor: pointer;
+
+}
+
+.pinkss {
+    border: 2px solid #FC3867;
+    width: 150px;
+    height: 40px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 30px;
+    color: #FFFFFF;
+    background: #FC3867;
+    border-radius: 50px;
+    text-align: center;
+    margin: 75px 0px 30px 75px;
+    padding-top: 13px;
+    cursor: pointer;
+
+}
+
+
+
+
+/* section Reviews */
+
+
+
+
+.register {
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 274px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 150px;
+
+
+}
+
+.pss {
+    margin-top: 50px;
+}
+
+.subscribe {
+    font-weight: 600;
+    font-size: 16px;
+    color: #C4C4C4;
+    margin-top: 50px;
+
+
+}
+
+.ubdate {
+    font-weight: 700;
+    font-size: 40px;
+    color: #212226;
+
+
+}
+
+.btnget6 {
+    border: 2px solid linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #FC3867;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 13px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 30px;
+    margin: 10px 0px 20px 690px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #FC3867;
+    cursor: pointer;
+
+}
+
+
+
+
+/* section Footer */
+
+
+
+
+.footer {
+    display: flex;
+    background-color: #000000;
+    height: 500px;
+}
+
+.footername {
+    width: 84px;
+    height: 30px;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+
+}
+
+.footertext {
+    width: 318px;
+    height: 72px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #C4C4C4;
+
+}
+
+.footercard_b {
+    width: 230px;
+    margin: 30px 0px 10px 70px;
+
+
+}
+
+.footercard_a {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.imgclass {
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.footercardname {
+    color: white;
+    cursor: pointer;
+}
+
+.footercardtext {
+    color: #C4C4C4;
+    cursor: pointer;
+}
+
+.footerhr {
+    width: 1350px;
+    height: 1px;
+    margin: -200px 0px 0px 70px;
+    background-color: rgba(196, 196, 196, 0.5);
+    border-radius: 50px;
+    justify-content: center;
+
+
+}
+
+.footerendtext {
+    width: 264px;
+    height: 16px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: rgba(196, 196, 196, 0.5);
+    margin: 32px 120px 0px 600px;
+    cursor: pointer;
+
+}

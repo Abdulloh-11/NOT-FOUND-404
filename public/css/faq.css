@@ -1,0 +1,352 @@
+body {
+    background-color: #F1F1F1;
+    font-family: 'Inter';
+}
+*{
+    font-family: 'Inter';
+}
+
+
+a {
+    text-decoration: none;
+    
+}
+
+
+/* section header */
+.head {
+    font-family: 'Inter';
+    cursor: pointer;
+    width: 44px;
+    height: 27px;
+    margin: 25px 40px 0px 0px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #525252;
+
+
+}
+
+.head3 {
+    margin-right: 112px;
+}
+
+.header {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+
+/* section About */
+
+
+
+.about {
+    height: 148px;
+    font-weight: 400;
+    font-size: 64px;
+    color: #000000;
+    margin: 126px 519px 0px 96px;
+}
+
+.about_b {
+    height: 148px;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    color: #757575;
+    margin-top: -65px;
+}
+
+
+
+
+.featurediv {
+    display: flex;
+    margin: 246px 1114px 32px 96px;
+}
+
+.feture {
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.graynumber {
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #757575;
+    cursor: pointer;
+}
+
+
+.images {
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.image {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.img_2 {
+    height: 434px;
+}
+
+.imgbottom p {
+    margin-left: 30px;
+    line-height: 1px;
+    padding: 20px 10px 0px 20px;
+
+
+
+}
+
+.feture1 {
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.graynumber1 {
+    height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: -1px;
+    color: #757575;
+    cursor: pointer;
+}
+
+.imgbottom {
+    background-color: #F7F7F7;
+    width: 612px;
+    margin-top: -25px;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    height: 80px;
+    justify-content: left;
+}
+
+
+
+
+.textabout {
+    display: flex;
+    justify-content: center;
+    margin-top: 190px;
+
+}
+
+.smalltext {
+
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+    margin-right: 517px;
+}
+
+.bigtext {
+    font-weight: 400;
+
+    font-size: 28px;
+    line-height: 42px;
+    color: #000000;
+}
+
+
+
+
+
+.bigimg {
+    width: 100%;
+    margin-top: 150px;
+}
+
+.bigsimg {
+    width: 100%;
+}
+
+
+
+
+
+.companyname {
+
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+
+}
+
+.job {
+
+    font-weight: 400;
+    font-size: 17px;
+    color: #525252;
+    margin-top: -10px;
+
+}
+
+.august {
+    height: 30px;
+    font-weight: 400;
+    font-size: 19px;
+    color: #757575;
+}
+
+.textsss {
+    display: block;
+}
+
+.chiziq {
+    background-color: #e9e9e9;
+    width: 588px;
+    height: 1px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+
+.servis {
+    height: 42px;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+
+.boshqatext {
+    margin-left: 100px !important;
+}
+
+
+
+
+
+.card {
+    justify-content: center;
+    margin-top: 100px;
+
+
+}
+
+.middlecard {
+    height: 591px;
+    background-color: #FFEBD8;
+    border-radius: 20px;
+    width: 1248px;
+    text-align: center;
+    margin: 200px 0px 0px 130px;
+
+}
+
+
+.cardtext {
+    font-weight: 400;
+    font-size: 57px;
+    line-height: 74px;
+    text-align: center;
+    color: #000000;
+    padding: 126px 30px 40px 10px;
+}
+
+
+.href {
+    font-weight: 400;
+    font-size: 37px;
+    line-height: 52px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+}
+
+
+
+
+
+.footer {
+    justify-content: space-between;
+    display: flex;
+}
+
+.home_3 {
+    display: flex;
+    margin-top: 250px;
+    gap: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.twitter {
+    margin-right: 100px;
+    cursor: pointer;
+}
+
+.work {
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+.footer1 {
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.home_31 {
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+    height: 21px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+
+}
+
+.twitter1 {
+    margin-right: 100px;
+    cursor: pointer;
+    height: 21px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #525252;
+}
+
+.work1 {
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+
+.chiziquzun{
+    background-color: #e9e9e9;
+    width: 1300px;
+    height: 1px;
+    margin-top: 30px;
+   margin-left: 100px;
+   
+}
